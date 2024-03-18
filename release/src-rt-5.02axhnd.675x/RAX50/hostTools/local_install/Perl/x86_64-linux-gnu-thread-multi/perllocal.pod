@@ -1,0 +1,22 @@
+=head2 Thu Apr 29 15:40:07 2021: C<Module> L<Convert::Binary::C|Convert::Binary::C>
+
+=over 4
+
+=item *
+
+C<installed into: /disk10/brogan/RAX50/release/tmp/bcm963xx/hostTools/local_install/Perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.77>
+
+=item *
+
+C<EXE_FILES: bin/ccconfig>
+
+=back
+
