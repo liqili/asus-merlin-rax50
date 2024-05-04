@@ -2208,7 +2208,7 @@ void init_switch()
 #elif defined(RTAX82_XD6)
 			int ports[4] = { 4, 2, 1, 0 };
 #elif defined(BCM6750) || defined(BCM63178)
-			int ports[5] = { 0, 1, 2, 3, 4 };
+			int ports[5] = { 4, 3, 2, 1, 0 };
 #elif defined(RTAX1800)
 			int ports[5] = { 0, 1, 2, 3, 4 };
 #elif defined(RPAX56) || defined(RPAX58)

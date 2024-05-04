@@ -1657,8 +1657,8 @@ static const applets_t applets[] = {
 	{ "fw_check",			fw_check_main			},
 #endif
 #if defined(RTAX82U) || defined(GSAX3000) || defined(GSAX5400) || defined(TUFAX5400) || defined(GTAX11000_PRO) || defined(GTAXE16000) || defined(GTAX6000)
-	{ "ledg",			ledg_main			},
-	{ "ledbtn",			ledbtn_main			},
+	// { "ledg",			ledg_main			},
+	// { "ledbtn",			ledbtn_main			},
 #endif
 #if defined(DSL_AX82U)
 	{ "ledg",			ledg_main			},
